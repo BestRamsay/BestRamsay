@@ -31,3 +31,4 @@
 <img src="https://logotyp.us/file/solana.svg" width=80 hight=80 title="Solana"/>&nbsp;
 <img src="https://logotyp.us/file/ethereum.svg" width=80 hight=80 title="ETH"/>&nbsp;
 <img src="https://logotyp.us/file/bitcoin-sv.svg" width=80 hight=80 title="BTC"/>&nbsp;
+<img src="https://cryptologos.cc/logos/tron-trx-logo.svg" width=50 hight=50 title="TRON"/>&nbsp;
